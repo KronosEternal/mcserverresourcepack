@@ -1,0 +1,2 @@
+6c9a91bb389621faebfd73c5d6a33fe083955536 = SHA1 HASH
+https://download.mc-packs.net/pack/6c9a91bb389621faebfd73c5d6a33fe083955536.zip = LINK
